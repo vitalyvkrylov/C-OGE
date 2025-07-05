@@ -1,0 +1,1 @@
+# task 6_The_linear_algorithm

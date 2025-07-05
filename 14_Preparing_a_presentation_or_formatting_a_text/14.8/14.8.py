@@ -1,0 +1,1 @@
+# task 10_Information_in_the_form_of_graphs_and_diagrams
